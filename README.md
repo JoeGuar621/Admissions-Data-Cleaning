@@ -1,1 +1,1 @@
-The code found in this repository is used to clean medium-to-large datasets, typically lists of students for import into a CRM. These scripts turn 2-3 hours of preparation into only 60 seconds of work. No personal data is present in the datasets used. 
+The code found in this repository is used to clean medium-to-large datasets, typically lists of students for import into a CRM. These scripts turn 2-3 hours of preparation into only 60 seconds of work. No personal information is present in the datasets used. All personal information was converted into dummy data. 
